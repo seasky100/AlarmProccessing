@@ -9,3 +9,4 @@ Login->showList->proccessing
 消息列表采用recyclerView，对应的itemView展示应该采用第三方包。
 警情处理和处理反馈界面应该写成一个activity，通过switch切换，这里图片展示可以自己写，如果以后要加入短视频或视频流之类可以再导入第三方。
 这里 pickImage采用知乎开源库框架
+![image](https://github.com/wangchenhao006/AlarmProccessing/master/AlarmProccessing/Resource/AlarmProccessing.gif)
